@@ -7,7 +7,7 @@
 <body>
   <script>
   var nama = alert('Jawapan awak betul!');
-  window.location = 'https://tekariddle.github.io/semua.html';
+  window.location = 'https://tekariddle.github.io/semua';
   </script>
 </body>
 <style>
